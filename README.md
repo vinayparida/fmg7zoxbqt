@@ -1,1 +1,1 @@
-# fmg7zoxbqt
+# For Sonartype namespace verification
